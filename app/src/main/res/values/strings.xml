@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KeywordSample</string>
+    <string name="hot_keyword">Từ khóa hot</string>
+    <string name="bad_request">Bad request!</string>
+    <string name="time_out">Time out</string>
+    <string name="internal_error">Internal server error</string>
+    <string name="no_network">No internet connection!</string>
+    <string name="unexpected">Unexpected error!</string>
+    <string name="retry">Retry</string>
+    <string name="app_component_factory">AppComponentFactory</string>
+</resources>
